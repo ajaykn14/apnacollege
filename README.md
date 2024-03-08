@@ -1,4 +1,4 @@
 # apnacollege
 This is my first Repository
 <br>
-Author-Ajay Kumar
+Author-Ajay(AJ)
